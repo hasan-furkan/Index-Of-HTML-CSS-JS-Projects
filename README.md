@@ -1,6 +1,6 @@
 <p align="center"> 
   
-<h1 align="center">Index of HTML & CSS Projects</h1>
+<h1 align="center">Index of HTML, CSS & JavaScript Projects</h1>
 
 </p>
 

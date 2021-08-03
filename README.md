@@ -1,6 +1,6 @@
 <p align="center"> 
   
-<h1 align="center">Index of HTML & CSS Projects</h1>
+<h1 align="center">Index of HTML, CSS & JavaScript Projects</h1>
 
 </p>
 
@@ -36,6 +36,12 @@
             <td>weatherApp</td>
             <td><a href="https://github.com/hasan-furkan/weatherApp" target="_blank">Repo details</a></td>
             <td><a href="https://hasan-furkan.github.io/weatherApp/" target="_blank">Click here to see the project</a></td>
+            <td><img style="width:500px;" src="./gifs/weather.gif" alt="html" height=130></td> 
+        </tr>
+         <tr>
+            <td>RandomPasswordAndColorGenerator</td>
+            <td><a href="https://github.com/hasan-furkan/randomPasswordGenerator" target="_blank">Repo details</a></td>
+            <td><a href="https://hasan-furkan.github.io/randomPasswordGenerator/" target="_blank">Click here to see the project</a></td>
             <td><img style="width:500px;" src="./gifs/weather.gif" alt="html" height=130></td> 
         </tr>
 </tbody>

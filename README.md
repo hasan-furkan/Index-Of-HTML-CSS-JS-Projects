@@ -44,5 +44,29 @@
             <td><a href="https://hasan-furkan.github.io/randomPasswordGenerator/" target="_blank">Click here to see the project</a></td>
             <td><img style="width:500px;" src="./gifs/randomColorAndPasswordGenerator.gif" alt="html" height=130></td> 
         </tr>
+      <tr>
+            <td>iOS Calculator</td>
+            <td><a href="https://github.com/hasan-furkan/iOS-calculator" target="_blank">Repo details</a></td>
+            <td><a href="https://hasan-furkan.github.io/iOS-calculator/" target="_blank">Click here to see the project</a></td>
+            <td><img style="width:500px;" src="#" alt="html" height=130></td> 
+        </tr>
+      <tr>
+            <td>Find Number</td>
+            <td><a href="https://github.com/hasan-furkan/findNumber" target="_blank">Repo details</a></td>
+            <td><a href="https://hasan-furkan.github.io/findNumber/" target="_blank">Click here to see the project</a></td>
+            <td><img style="width:500px;" src="#" alt="html" height=130></td> 
+        </tr>
+      <tr>
+            <td>Rock Paper and Scissors Game</td>
+            <td><a href="https://github.com/hasan-furkan/rockPaperScissorsGame" target="_blank">Repo details</a></td>
+            <td><a href="https://hasan-furkan.github.io/rockPaperScissorsGame/" target="_blank">Click here to see the project</a></td>
+            <td><img style="width:500px;" src="#" alt="html" height=130></td> 
+        </tr>
+      <tr>
+            <td>Dark and Light Theme</td>
+            <td><a href="https://github.com/hasan-furkan/instagramLightTheme" target="_blank">Repo details</a></td>
+            <td><a href="https://hasan-furkan.github.io/instagramLightTheme/" target="_blank">Click here to see the project</a></td>
+            <td><img style="width:500px;" src="#" alt="html" height=130></td> 
+        </tr>
 </tbody>
 </table>
